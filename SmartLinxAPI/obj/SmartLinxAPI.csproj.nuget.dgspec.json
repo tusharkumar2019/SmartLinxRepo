@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tusarkumarp\\source\\repos\\SmartLinxServiceFabric\\SmartLinxAPI\\SmartLinxAPI.csproj": {}
+    "D:\\Azure\\SmartLinxRepo\\SmartLinxAPI\\SmartLinxAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tusarkumarp\\source\\repos\\SmartLinxServiceFabric\\SmartLinxAPI\\SmartLinxAPI.csproj": {
+    "D:\\Azure\\SmartLinxRepo\\SmartLinxAPI\\SmartLinxAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tusarkumarp\\source\\repos\\SmartLinxServiceFabric\\SmartLinxAPI\\SmartLinxAPI.csproj",
+        "projectUniqueName": "D:\\Azure\\SmartLinxRepo\\SmartLinxAPI\\SmartLinxAPI.csproj",
         "projectName": "SmartLinxAPI",
-        "projectPath": "C:\\Users\\tusarkumarp\\source\\repos\\SmartLinxServiceFabric\\SmartLinxAPI\\SmartLinxAPI.csproj",
+        "projectPath": "D:\\Azure\\SmartLinxRepo\\SmartLinxAPI\\SmartLinxAPI.csproj",
         "packagesPath": "C:\\Users\\tusarkumarp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tusarkumarp\\source\\repos\\SmartLinxServiceFabric\\SmartLinxAPI\\obj\\",
+        "outputPath": "D:\\Azure\\SmartLinxRepo\\SmartLinxAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

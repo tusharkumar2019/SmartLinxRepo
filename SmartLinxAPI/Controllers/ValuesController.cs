@@ -15,7 +15,7 @@ namespace SmartLinxAPI.Controllers
         public ActionResult<string> Get()
         {
             //return new string[] { "value1", "value2" };
-            return "This is version 1.";
+            return "Welcome to Microservice Sample!";
         }
 
         // GET api/values/5
