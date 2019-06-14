@@ -1,0 +1,17 @@
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\obj\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.csproj.CoreCompileInputs.cache
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\obj\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.AssemblyInfoInputs.cache
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\obj\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.AssemblyInfo.cs
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\bin\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.exe
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\bin\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.deps.json
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\bin\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.runtimeconfig.json
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\bin\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.runtimeconfig.dev.json
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\bin\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.dll
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\bin\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.pdb
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\obj\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.csprojAssemblyReference.cache
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\obj\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.RazorAssemblyInfo.cache
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\obj\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.RazorAssemblyInfo.cs
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\obj\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.RazorTargetAssemblyInfo.cache
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\obj\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.dll
+C:\Users\tusarkumarp\source\repos\SmartLinxServiceFabric\SmartLinxAPI\obj\Debug\netcoreapp2.1\win7-x64\SmartLinxAPI.pdb
